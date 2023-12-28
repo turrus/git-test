@@ -3,3 +3,9 @@
     font-size: 16px;
     font-weight: 600;
 }
+
+.nav {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
