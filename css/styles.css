@@ -9,3 +9,8 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.nav-link {
+    padding: 0;
+    margin: 0;
+}
